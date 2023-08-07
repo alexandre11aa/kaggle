@@ -1,3 +1,5 @@
+# Link do desafio: https://www.kaggle.com/competitions/titanic
+
 # # Ajustando Dados
 
 import pandas as pd
